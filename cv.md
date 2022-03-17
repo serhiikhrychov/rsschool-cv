@@ -23,15 +23,14 @@ I am certificated QA Engineer with more then 8 years of experiance in comertial 
 **Logs management:** Kibana, Grafana;
 **Design & Style:** Figma, CSS.
 
-## Projects:
-Title: Three JS library project
-Summary: Project for additional reality creating on JS.
-[GitHub link](https://github.com/serhiikhrychov/dop_reality2)
-
-Title: Site for Travel Agency
-Summary: Site for travel agency with frontend and backend parts
-[GitHub link](https://github.com/serhiikhrychov/fun_travel_laravel)
-
-Title: Yalantys React App
-Summary: Test task on React for Yalantys school
-[GitHub link](https://github.com/serhiikhrychov/yalantis-test-app)
+## Code Example:
+```js
+function fakeBin(x){
+let str = '';
+  for (let char of x){
+  (+char < 5) ? char = '0' : char = '1';
+ str = str + char;
+}
+  return str;
+}
+```
