@@ -58,16 +58,16 @@ let str = '';
 - Trained, mentored and build a team of 3 QAs.
 
 ## My Educational Frontend Projects:
-Title: Three JS library project
-Summary: Project for additional reality creating on JS. Hosting on github pages.
+**Title:** Three JS library project <br>
+**Summary:** Project for additional reality creating on JS. Hosting on github pages. <br>
 [GitHub link](https://github.com/serhiikhrychov/dop_reality2)
 
-Title: Site for Travel Agency
-Summary: Site for travel agency with frontend and backend parts
+**Title:** Site for Travel Agency <br>
+**Summary:** Site for travel agency with frontend and backend parts <br>
 [GitHub link](https://github.com/serhiikhrychov/fun_travel_laravel)
 
-Title: Yalantys React App
-Summary: Test task on React for Yalantys school. Hosting on github pages.
+**Title:** Yalantys React App <br>
+**Summary:** Test task on React for Yalantys school. Hosting on github pages. <br>
 [GitHub link](https://github.com/serhiikhrychov/yalantis-test-app)
 
 ## Education:
@@ -84,6 +84,6 @@ Radio engineer
 Sep 2004 - May 2008
 
 ## Languages:
-**English:** B2
-**Ukrainian:** Native
-**Russian:** Native
+**English:** B2 <br>
+**Ukrainian:** Native <br>
+**Russian:** Native <br>
