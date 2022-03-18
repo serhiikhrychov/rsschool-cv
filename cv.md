@@ -36,21 +36,21 @@ let str = '';
 ```
 
 ## Work Experience:
-##### Parimatch Tech (Oct 2016 - Present)
+#### Parimatch Tech (Oct 2016 - Present)
 **Senior QA Engineer**
 - Collaborate with frontend engineers on frontend tasks.
 - Web manual/automation (С#) testing of product for sports betting sphere.
 - Coordinating with product owner on quality management system requirements.
 - Working with databases and server side issues.
 
-##### AltexSoft (Sep 2015 - Oct 2016)
+#### AltexSoft (Sep 2015 - Oct 2016)
 **Middle QA Engineer**
 - Web/Mobile manual testing of business, healthcare applications.
 - Working with UI automated tests for regression testing (Ruby + Capybara + Cucumber).
 - Reporting the performance to the management.
 - Coordinating with managers on quality management system requirements.
 
-##### QAminds  (Aug 2013 - Sep 2015)
+#### QAminds  (Aug 2013 - Sep 2015)
 **Junior QA Engineer**
 - Web/Mobile manual testing across multiple platforms (Windows, Linux, Mac OS), 
 - Auto-tests development (on Ruby) for healthcare, e-commerce applications.
@@ -71,16 +71,16 @@ let str = '';
 [GitHub link](https://github.com/serhiikhrychov/yalantis-test-app)
 
 ## Education:
-##### NTU "Igor Sikorsky Kyiv Polytechnic Institute"
-Software engineering
+#### NTU "Igor Sikorsky Kyiv Polytechnic Institute"
+Software engineering <br>
 Oct 2020 - Jun 2023
 
-##### V.N. Karazin Kharkiv National University
-Master's degree in history
+#### V.N. Karazin Kharkiv National University
+Master's degree in history <br>
 Sep 2008 - May 2013
 
-##### Kharkiv Radio Engineering College
-Radio engineer
+#### Kharkiv Radio Engineering College
+Radio engineer <br>
 Sep 2004 - May 2008
 
 ## Languages:
